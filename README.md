@@ -7,14 +7,7 @@ Welcome to the Stock Market Prediction Project! This project aims to predict sto
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [Technologies Used](#technologies-used))
 
 ## Introduction
 
