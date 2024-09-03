@@ -41,6 +41,6 @@ This project utilizes various machine learning techniques to predict stock marke
 - Matplotlib
 - Seaborn
 
-## Project Structure
+
 
 
